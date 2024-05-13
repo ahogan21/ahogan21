@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 👨🏻‍💻 I can work with
 
 <div display="flex">

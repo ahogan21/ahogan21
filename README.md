@@ -8,7 +8,7 @@
 
 ### 🔭 My latest project is
 
-- My [Tetris Game](https://github.com/ahogan21/tetris-game) 
+My [Tetris Game](https://github.com/ahogan21/tetris-game) 
 
 ### 🌱 I’m learning
 
